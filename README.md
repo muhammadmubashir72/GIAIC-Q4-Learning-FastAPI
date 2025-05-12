@@ -8,7 +8,7 @@ A beginner-friendly explanation of Generative AI — what it is, how it works, b
 
 ### ✅ Task 2: Understanding FastAPI Basics
 This task covers the essentials of setting up a FastAPI project, including installation, creating routes, handling parameters, and testing the application using different tools.  
-[Read the full task details →](https://github.com/muhammadmubashir72/GIAIC-Q4-Learning-FastAPI/tree/master/Task%202%20fastapi-basics))
+[Read the full task details →](https://github.com/muhammadmubashir72/GIAIC-Q4-Learning-FastAPI/tree/master/Task%202%20(fastapi-basics))
 
 ---
 
