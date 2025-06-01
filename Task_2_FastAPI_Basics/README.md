@@ -201,3 +201,9 @@ These interactive tools allow you to test API endpoints directly from the browse
 This is a simple FastAPI project designed to teach you the basics of API development using FastAPI. You learned how to set up a project, define basic routes, and interact with your API using path and query parameters.
 
 ---
+
+## 📘 Downloadable Guide
+
+You can also download this guide as a PDF:
+
+👉 [FastAPI_Basics_Guide.pdf](https://github.com/muhammadmubashir72/GIAIC-Q4-Learning-FastAPI/raw/master/Task_2_FastAPI_Basics/FastAPI_Basics_Guide.pdf)

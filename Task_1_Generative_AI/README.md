@@ -73,6 +73,12 @@ When used ethically and thoughtfully, it can **revolutionize industries**, **emp
 📖 **Read Full Article with Visuals**  
 👉 [What is Generative AI? – The Future of Creative Intelligence](https://medium.com/@mubashirkhi72/what-is-generative-ai-the-future-of-creative-intelligence-563cbda0504c)
 
+## 📘 Downloadable Guide
+
+You can also download this guide as a PDF:
+
+👉 [Generative AI.pdf](https://github.com/muhammadmubashir72/GIAIC-Q4-Learning-FastAPI/raw/master/Task_1_Generative_AI/Generative_AI.pdf)
+
 ---
 
 **Muhammad Mubashir Saeedi | Task 1 Generative AI**
