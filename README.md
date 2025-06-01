@@ -32,7 +32,7 @@ This task demonstrates how to build a basic chatbot backend using FastAPI. It in
 
 You can also download this guide as a PDF:
 
-👉 [DACA_Chatbot_API_Documentation.pdf](https://github.com/muhammadmubashir72/GIAIC-Q4-Learning-FastAPI/master/Task_3_Pydantic_FastAPI_Chatbot_App/DACA_Chatbot_API_Documentation.pdf)
+👉 [DACA_Chatbot_API_Documentation.pdf](https://github.com/muhammadmubashir72/GIAIC-Q4-Learning-FastAPI/raw/master/Task_3_Pydantic_FastAPI_Chatbot_App/DACA_Chatbot_API_Documentation.pdf)
 
 ---
 
